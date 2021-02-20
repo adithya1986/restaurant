@@ -1,1 +1,2 @@
 # restaurant
+1. Create a restuarant billling module with few tiffen items user can choose from the console menu option and select the appropriate items. Bill the items with 6% CGST and 6% SGST and calculate total bill amount for the orders.
