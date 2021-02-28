@@ -7,5 +7,5 @@ class Billing:
     def calculate_bill_amount(self):
         self.total=self.quantity*self.price
 
-item_price={'Meal':80,'Briyani':120,'FriedRice':130,'Noodles':140}
-bill=Billing()
+item_price={'Meal':80,'Briyani':120,'FriedRice':130,'Noodles':140,'MiniiMeals':60}
+bill=Billing('Meal',3,80)
